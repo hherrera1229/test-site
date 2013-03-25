@@ -1,4 +1,4 @@
-test-site
+Test-Site
 =========
 
-My Website
+My website primarily going to be used to host my resume and portfolio online as it grows.

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>ARCI</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>mjW0B29</title>
+            <link>slides/mjW0B29.html</link>
+            <pubDate>Sun, 02 Mar 2014 01:38:46 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/mjW0B29.png" width="240" height="144"/>
+            <media:content type="image/png" url="slides/mjW0B29.png" width="1024" height="616"/>
+            <guid isPermaLink="false">slides/mjW0B29.png</guid>
+        </item>
+        <item>
+            <title>t3RHEtu</title>
+            <link>slides/t3RHEtu.html</link>
+            <pubDate>Sun, 02 Mar 2014 01:38:46 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/t3RHEtu.png" width="240" height="144"/>
+            <media:content type="image/png" url="slides/t3RHEtu.png" width="1024" height="616"/>
+            <guid isPermaLink="false">slides/t3RHEtu.png</guid>
+        </item>
+    </channel>
+</rss>
